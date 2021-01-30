@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(40,45,51);
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navigation {
+    background-color: rgb(32,36,41);
+    height: 50px;
+}
+
+.navigation-React-logo {
+    padding-left: 30px;
+    width: 20px;
+    height: 20px;
+}
+
+.navigation-React-text {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(98,218,251);
+}
+
+.navigation-item {
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+}
+
+.main__header {
+    text-align: center;
+    height: 350px;
+}
+
+.main__header-title {
+    padding-top: 30px;
+    font-weight: 600;
+    font-size: 50px;
+    color: rgb(98,218,251);
+}
+
+.main__header-paragraph {
+    font-weight: 100;
+    padding-bottom: 40px;
+    font-size: 25px;
+    color: rgb(229,230,230);
+}
+
+.main__header-first__button {
+    background-color: rgb(98,218,251);
+    color: black;
+    font-size: 20px;
+    font-weight: 100;
+    height: 50px;
+    width: 150px;
+    border: rgb(98,218,251);
+}
+
+.main__header-second__button {
+    background-color: rgba(0,0,0,0);
+    color: rgb(98,218,251);
+    font-size: 20px;
+    font-weight: lighter;
+    height: 50px;
+    width: 200px;
+    border: rgb(40,45,51);
+}
+
+main {
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.section-header {
+    color: rgb(109,109,109);
+}
+
+.first__section,
+.second__section {
+    overflow: hidden;
+    padding-bottom: 50px;
+    line-height: 1.5;
+}
+
+.section-first__text,
+.section-second__text{
+    float: left;
+    padding-right: 100px;
+}
+
+.section2-header {
+    font-weight: bolder;
+}
+
+footer {
+    overflow: hidden;
+    background-color: rgb(32,36,41);
+    height: 1000px;
+}
+
+.footer-first__column,
+.footer-second__column {
+    float: left;
+    padding-right: 100px;
+}
+
+.footer-second__column,
+.footer-third__column {
+    line-height: 2.5;
+}
+
+.second__column-header,
+.third__column-header {
+    color: rgb(153,153,153);
+    font-size: 15px;
+    padding-top: 30px;
+    padding-right: 160px;
+}
+
+.footer-buttons {
+    padding-top: 20px;
+    background-color: rgb(40,45,51);
+    height: 80px;
+    text-align: center;
+}
+
+.footer-fb__picture {
+    padding-right: 160px;
+    padding-left: 80px;
+    padding-top: 40px;
+    text-align: left;
+    width: 200px;
+    height: 50px;
+}
+
+.footer-copyright__text {
+    padding-top: 20px;
+    padding-left: 80px;
+    font-size: 15px;
+    color: rgb(153,153,153);
+}
+
+a {
+    color: white;
+}
